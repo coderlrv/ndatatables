@@ -1,0 +1,13 @@
+{
+  "name": "@coder-lrv/ndatatables",
+  "version": "1.0.0",
+  "description": "Fork DataTables all plugins.",
+  "main": "datatables.js",
+  "keywords": [
+    "datatables",
+    "dist",
+    "fork"
+  ],
+  "author": "TI Lrv <dtic@lucasdorioverde.mt.gov.br>",
+  "license": "MIT"
+}
