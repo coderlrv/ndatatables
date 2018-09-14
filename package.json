@@ -1,6 +1,6 @@
 {
   "name": "@coder-lrv/ndatatables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork DataTables all plugins.",
   "main": "datatables.js",
   "keywords": [
